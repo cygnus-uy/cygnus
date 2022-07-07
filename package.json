@@ -45,5 +45,25 @@
 	},
 	"workspaces": [
 		"packages\\paginator"
-	]
+	],
+	"description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+	"directories": {
+		"doc": "docs"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cygnus-uy/cygnus.git"
+	},
+	"keywords": [
+		"react",
+		"react-component",
+		"cygnus",
+		"cygnus-uy"
+	],
+	"author": "Cygnus UY Team",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/cygnus-uy/cygnus/issues"
+	},
+	"homepage": "https://github.com/cygnus-uy/cygnus#readme"
 }
